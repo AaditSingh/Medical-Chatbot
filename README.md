@@ -18,14 +18,29 @@ Interactive Chatbot: A user-friendly interface powered by Streamlit for real-tim
 
 # Screenshots
 
-<img src="https://github.com/user-attachments/assets/d0c1fd4d-ebbb-480b-a07c-814d887aa480" alt="aslphoto1" width="1500">
-<img src="https://github.com/user-attachments/assets/2db53db9-da35-40fd-9b79-b1b40e240c2a" alt="aslphoto2" width="1500">
-<img src="https://github.com/user-attachments/assets/b2eaed6e-83da-426e-9a28-96006e6e7759" alt="aslphoto3" width="1500">
-<img src="https://github.com/user-attachments/assets/2952b7c3-aa4e-46a9-9dd6-b187b4a8b814" alt="aslphoto4" width="1500">
-<img src="https://github.com/user-attachments/assets/da6be3e9-5771-4388-87ad-384d062f4ce2" alt="aslphoto5" width="500">
-<img src="https://github.com/user-attachments/assets/01487d1b-93b2-4348-9892-0b00f66cbf5a" alt="aslphoto8" width="1500">
-<img src="https://github.com/user-attachments/assets/2020c636-9099-4067-8bce-939af569535e" alt="aslphoto9" width="700">
-<img src="https://github.com/user-attachments/assets/83ff0821-c4a1-4cdd-9920-85e43887ffd1" alt="aslphoto10" width="700">
+
+The following is the response to "Tell me about cancer prevention":
+<img src="https://github.com/user-attachments/assets/01487d1b-93b2-4348-9892-0b00f66cbf5a" alt="aslphoto8" width="1800"><br />
+
+<img src="https://github.com/user-attachments/assets/d0c1fd4d-ebbb-480b-a07c-814d887aa480" alt="aslphoto1" width="1500"> <br />
+
+
+<img src="https://github.com/user-attachments/assets/2db53db9-da35-40fd-9b79-b1b40e240c2a" alt="aslphoto2" width="1500"><br />
+
+
+<img src="https://github.com/user-attachments/assets/b2eaed6e-83da-426e-9a28-96006e6e7759" alt="aslphoto3" width="1500"><br />
+
+
+<img src="https://github.com/user-attachments/assets/2952b7c3-aa4e-46a9-9dd6-b187b4a8b814" alt="aslphoto4" width="1500"><br />
+
+
+<img src="https://github.com/user-attachments/assets/da6be3e9-5771-4388-87ad-384d062f4ce2" alt="aslphoto5" width="500"><br />
+
+
+
+<img src="https://github.com/user-attachments/assets/2020c636-9099-4067-8bce-939af569535e" alt="aslphoto9" width="700"><br />
+
+<img src="https://github.com/user-attachments/assets/83ff0821-c4a1-4cdd-9920-85e43887ffd1" alt="aslphoto10" width="700"><br />
 
 
 # Technology Stack
