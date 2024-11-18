@@ -7,9 +7,9 @@ A sophisticated medical consultation chatbot developed using cutting-edge techno
 Medical Consultations: Provides detailed medical advice and health precautions based on user inputs.
 
 RAG Pipeline: Optimized processing of:
-  Patient Histories: Analyzes complex medical records and histories.
-  EMR Data: Integrates and interprets Electronic Medical Record data for personalized consultations.
-  Graphical Inputs: Capable of understanding and deriving insights from diagrams and images.
+  1. Patient Histories: Analyzes complex medical records and histories.
+  2. EMR Data: Integrates and interprets Electronic Medical Record data for personalized consultations.
+  3. Graphical Inputs: Capable of understanding and deriving insights from diagrams and images.
   
 Interactive Chatbot: A user-friendly interface powered by Streamlit for real-time interactions.
 
