@@ -15,11 +15,11 @@ Interactive Chatbot: A user-friendly interface powered by Streamlit for real-tim
 
 # Technology Stack
 
-LangChain: For chaining and orchestrating the LLM workflows.
-LLM: Large Language Model for natural language understanding and generation.
-Ollama: For efficient language processing and interaction.
-OpenAI API: Powering the chatbot’s responses with state-of-the-art models.
-Streamlit: For building a responsive and interactive front-end interface.
+1. LangChain: For chaining and orchestrating the LLM workflows.
+2. LLM: Large Language Model for natural language understanding and generation.
+3. Ollama: For efficient language processing and interaction.
+4. OpenAI API: Powering the chatbot’s responses with state-of-the-art models.
+5. Streamlit: For building a responsive and interactive front-end interface.
 
 # How It Works
 
