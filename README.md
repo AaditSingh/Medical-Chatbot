@@ -23,7 +23,7 @@ Interactive Chatbot: A user-friendly interface powered by Streamlit for real-tim
 <img src="https://github.com/user-attachments/assets/b2eaed6e-83da-426e-9a28-96006e6e7759" alt="aslphoto3" width="500">
 <img src="https://github.com/user-attachments/assets/2952b7c3-aa4e-46a9-9dd6-b187b4a8b814" alt="aslphoto4" width="500">
 <img src="https://github.com/user-attachments/assets/da6be3e9-5771-4388-87ad-384d062f4ce2" alt="aslphoto5" width="500">
-<img src="https://github.com/user-attachments/assets/01487d1b-93b2-4348-9892-0b00f66cbf5a" alt="aslphoto8" width="500">
+<img src="https://github.com/user-attachments/assets/01487d1b-93b2-4348-9892-0b00f66cbf5a" alt="aslphoto8" width="900">
 <img src="https://github.com/user-attachments/assets/2020c636-9099-4067-8bce-939af569535e" alt="aslphoto9" width="500">
 <img src="https://github.com/user-attachments/assets/83ff0821-c4a1-4cdd-9920-85e43887ffd1" alt="aslphoto10" width="500">
 
