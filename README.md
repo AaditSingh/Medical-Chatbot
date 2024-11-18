@@ -1,9 +1,9 @@
-![aslphoto7](https://github.com/user-attachments/assets/54a9b811-902e-4853-8981-0db355e3deab)# Medical Chatbot 
+# Medical Chatbot 
 
 A sophisticated medical consultation chatbot developed using cutting-edge technologies, including LangChain, LLM, Ollama, OpenAI API, and Streamlit. This chatbot offers medical consultations and delivers general health precautions. It leverages an advanced Retrieval-Augmented Generation (RAG) pipeline for efficient handling of complex patient histories, EMR (Electronic Medical Record) data, and graphical or diagrammatic inputs.
 
-<img src="https://github.com/user-attachments/assets/ea047de9-b447-4934-9b4c-de2811153092" alt="aslphoto6" width="200">
-<img src="https://github.com/user-attachments/assets/616c3b3e-5873-444e-8f9d-dc372ff6725a" alt="aslphoto7" width="200">
+<img src="https://github.com/user-attachments/assets/ea047de9-b447-4934-9b4c-de2811153092" alt="aslphoto6" width="500">
+<img src="https://github.com/user-attachments/assets/616c3b3e-5873-444e-8f9d-dc372ff6725a" alt="aslphoto7" width="500">
 
 # Features
 
