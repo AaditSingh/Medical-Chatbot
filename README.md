@@ -20,7 +20,7 @@ Interactive Chatbot: A user-friendly interface powered by Streamlit for real-tim
 
 
 The following is the response to "Tell me about cancer prevention":
-<img src="https://github.com/user-attachments/assets/01487d1b-93b2-4348-9892-0b00f66cbf5a" alt="aslphoto8" width="1800"><br />
+<img src="https://github.com/user-attachments/assets/01487d1b-93b2-4348-9892-0b00f66cbf5a" alt="aslphoto8" width="2500"><br />
 
 <img src="https://github.com/user-attachments/assets/d0c1fd4d-ebbb-480b-a07c-814d887aa480" alt="aslphoto1" width="1500"> <br />
 
